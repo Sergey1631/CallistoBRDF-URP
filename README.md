@@ -23,7 +23,7 @@ You can use it by selecting `CallistoBRDF/Lit` shader on material.
 
 ## Notes
 * This shader uses `UniversalForwardOnly` pass because we cant pack all BRDF parameters in GBuffer.
-### Dual Lobe Specular
+### Dual Lobe Specular (unconfident and experimental)
 * Since URP doesn't support Subsurface Scattering (like HDRP), dual lobe specular is implemented differently using Clear Coat. 
 The second lobe is simply a clear coat layer with its own smoothness and mask. 
 The lobes' blending is controlled by the `Dual Lobe Mix` property.
