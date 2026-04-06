@@ -1,0 +1,14 @@
+{
+  "name": "com.sergey1631.callistobrdfurp",
+  "displayName": "Callisto BRDF for URP",
+  "version": "0.1.0",
+  "description": "Callisto BRDF implementation in Unity Universal Render Pipeline.",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "documentationUrl": "https://github.com/Sergey1631/CallistoBRDF-URP",
+  "author": {
+    "name": "Sergey1631",
+    "url": "https://github.com/Sergey1631"
+  }
+}
