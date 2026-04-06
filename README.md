@@ -4,11 +4,11 @@
 
 Callisto BRDF experimental implementation in Unity Universal Render Pipeline.
 
+Tested on Unity 6000.3.8.f1 and URP 17.3.0
+
 ![BRDF Parameteres](/Documentation/images/BRDFSettings.png)
 
 Based on Unreal Engine Vite Fork implementation.
-
-Tested on Unity 6000.3.8.f1 and URP 17.3.0
 
 ## Installation
 * Go to "Window" -> "Package Manager".
