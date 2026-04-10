@@ -2,7 +2,7 @@
 
 <img width="900" alt="Callisto Front Face" src="/Documentation/images/BRDFPreview.png" />
 
-Callisto BRDF experimental implementation in Unity Universal Render Pipeline.
+Callisto BRDF experimental implementation for Unity Universal Render Pipeline.
 
 Tested on Unity 6000.3.8.f1 and URP 17.3.0
 
